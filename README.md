@@ -268,7 +268,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Jithin G K**
 - GitHub: [@JithinGK51](https://github.com/JithinGK51)
-- Email: [Your Email]
+- Email: [jithingk831733@gmail.com]
 
 ## 🙏 Acknowledgments
 
